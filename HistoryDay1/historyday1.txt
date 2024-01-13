@@ -1,0 +1,88 @@
+    1  code .
+    2  code .
+    3  code .
+    4  pwd
+    5  hello
+    6  find prakhar
+    7  ns
+    8  errors
+    9  ls
+   10  ls --help
+   11  ls -a
+   12  cd Prakhar
+   13  cd Desktop/
+   14  pwd
+   15  mkdir Dhaniya
+   16  pwd
+   17  cd Dhaniya
+   18  pwd
+   19  cd ..
+   20  cd dhaniya
+   21  cd ..
+   22  cd dhanush
+   23  cd dhaniya
+   24  cd dhaniya
+   25  pwd
+   26  mkdir trainingday1
+   27  pwd
+   28  ls trainingday1/
+   29  pwd
+   30  cd trainingday1/
+   31  pwd
+   32  touch trainingday1new
+   33  ls -a
+   34  rm trainingday1new 
+   35  ls -a
+   36  cd ..
+   37  ls -a
+   38  pwd
+   39  cd trainingday1/
+   40  cd ..
+   41* rmdir trainingday1/m
+   42  ls -a
+   43  mkdir trainingday1
+   44  cd trainingday1/
+   45  touch abc.txt
+   46  cd ..
+   47  pwd
+   48  ls -a
+   49  rmdir trainingday1/
+   50  cd trainingday1/
+   51  ls -a
+   52  cd abc.txt 
+   53  nano abc.txt 
+   54  cat abc.txt 
+   55  head abc.txt 
+   56  nano abc.txt 
+   57  head abc.txt 
+   58  cd..
+   59  mkdir Trainingday1new
+   60  cd Trainingday1new/
+   61  ls -a
+   62  mv Trainingday1 Trainingday1new
+   63  mv trainingday1 Trainingday1new
+   64  ls
+   65  cd ..
+   66  ls
+   67  mv abc.txt Trainingday1new/
+   68  ls
+   69  CD Trainingday1new/
+   70  cd Trainingday1new/
+   71  ls
+   72  pwd
+   73  mrdir depp
+   74  mkdir depp
+   75  pwd
+   76  cd depp/
+   77  ls
+   78  ls -a
+   79  ls -a
+   80  cd ..
+   81  ls -a
+   82  cp abc.txt depp/
+   83  ls
+   84  cd depp/
+   85  ls
+   86  history
+   87  history > basic commands.txt
+   88  history > basiccommands.txt
